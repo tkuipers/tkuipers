@@ -1,5 +1,5 @@
 <a href="mailto:tkuipers123@gmail.com">
-    <img alt="link to send me an email" src="https://img.shields.io/static/v1?label&message=ctkuipers123@gmail.com&color=whitesmoke&style=flat&logo=gmail" />
+    <img alt="link to send me an email" src="https://img.shields.io/static/v1?label&message=tkuipers123@gmail.com&color=whitesmoke&style=flat&logo=gmail" />
 </a>
 <br/>
 - 👋 Hi, I’m @tkuipers
