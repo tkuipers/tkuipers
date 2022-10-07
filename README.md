@@ -1,8 +1,10 @@
+<a href="mailto:tkuipers123@gmail.com">
+    <img alt="link to send me an email" src="https://img.shields.io/static/v1?label&message=ctkuipers123@gmail.com&color=whitesmoke&style=flat&logo=gmail" />
+</a>
+<br/>
 - 👋 Hi, I’m @tkuipers
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<br/>
+- I currently work at Vinted GmbH doing software development.
 
 <!---
 tkuipers/tkuipers is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
