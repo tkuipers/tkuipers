@@ -7,7 +7,7 @@
     srcset="https://github-readme-stats.vercel.app/api?username=tkuipers&show_icons=true&bg_color=FFFFFFFF&hide_border=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=tbjers&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tkuipers&show_icons=true" />
 </picture>
 <picture>
   <source
