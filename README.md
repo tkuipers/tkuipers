@@ -1,11 +1,10 @@
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=tkuipers&show_icons=true&theme=catppuccin_mocha&hide_border=true&rank_icon=github"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=tkuipers&show_icons=true&theme=catppuccin_latte&hide_border=true&rank_icon=github
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=tkuipers&rank_icon=github" />
-</picture>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=CBA6F7&vCenter=true&width=500&lines=building+things+%7C+breaking+things;homelab+enthusiast;10%2B+years+of+commits)](https://git.io/typing-svg)
+
+---
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" />
+</p>
